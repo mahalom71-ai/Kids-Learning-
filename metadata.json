@@ -1,0 +1,6 @@
+{
+  "name": "Kids Bornomala",
+  "description": "Interactive Bengali & English alphabet learning, tracing games, numbers 1-100 counting, rhymes with sing-along illustrations, audio pronunciation, and parental progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
